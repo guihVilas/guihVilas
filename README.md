@@ -1,6 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Guilherme Vilas Boas</h1>
-
-<img src="https://media.tenor.com/fBD4Hv1C0BIAAAAM/hollow-knight.gif" height="100px" align="right"/>
+<h1 align="center">👋 Olá, eu sou o Guilherme Vilas Boas Raimundo</h1>
 
 <p align="center">
   <i>Técnico de Eletrônica com ênfase em Desenvolvimento de Sistemas pela ETE FMC</i><br/>
