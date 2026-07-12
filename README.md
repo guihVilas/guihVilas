@@ -82,18 +82,6 @@ My main interests include:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=guihVilas&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihVilas&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📫 Contact
 
 <p align="center">
