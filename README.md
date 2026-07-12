@@ -97,17 +97,9 @@ My main interests include:
 # 📫 Contact
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/guilherme-vilas-boas-raimundo-307710395/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/guihVilas">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
+  <a href="mailto:guilherme11vilasboas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-guilherme11vilasboas%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
